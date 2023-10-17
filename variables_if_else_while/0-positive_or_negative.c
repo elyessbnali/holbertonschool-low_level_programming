@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.>
+#include <stdio.h>
 /**
  *main- checks if positive
  *return: 1
-*/
+ */
 int main(void)
 {
 	int n;
