@@ -8,15 +8,14 @@
 
 int main(void)
 {
-    int x = 0;
+	int x = 0;
 
-    while (x < 10)
-    {
-        putchar(x + '0');
-        x++;
-    }
-    putchar('\n');
+	while (x < 10)
+	{
+		putchar(x + '0');
+		x++;
+	}
+	putchar('\n');
 
-    return (0);
+	return (0);
 }
-
