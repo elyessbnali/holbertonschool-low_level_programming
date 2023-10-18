@@ -1,3 +1,6 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 /*
  * File: 7-print_tebahpla.c
  * Auth: Brennan D Baraban
