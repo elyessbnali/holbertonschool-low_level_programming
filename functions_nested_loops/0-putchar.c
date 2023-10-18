@@ -1,9 +1,9 @@
 #include "main.h"
 /*
- * File: 9-print_comb.c
- * Auth: Brennan D Baraban
+ * main - prints _putchar
+ * return: always (success)
  */
-int _putchar(char c)
+int main (void)
 {
 	_putchar('_');
 	_putchar('p');
