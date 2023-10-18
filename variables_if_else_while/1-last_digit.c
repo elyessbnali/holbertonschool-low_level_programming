@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main-check the last digit
- *Return: 1
+ * main - check the last digit
+ * Return: 1
  */
 int main(void)
 {

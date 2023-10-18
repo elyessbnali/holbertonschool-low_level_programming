@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main- checks if positive
- *Return: 1
+ * main - checks if positive
+ * Return: 1
  */
 int main(void)
 {
