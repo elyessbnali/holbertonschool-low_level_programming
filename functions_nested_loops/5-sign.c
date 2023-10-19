@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int print_sign - prints the sign of a number
+ * int print_sign - function that prints the sign of a number.
  * Return: Always (Success)
  * @c : integert
  */
