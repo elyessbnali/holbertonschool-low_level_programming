@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * int print_sign -  function that checks for alphabetic character
+ *  print_sign -  function that checks for alphabetic character.
  * Return: Always (Success)
- * @c : number
+ * @n : number
  */
 int print_sign(int n)
 {
